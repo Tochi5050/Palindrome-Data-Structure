@@ -1,0 +1,17 @@
+This code solves the question on Palindrome. A palindrome is a piece of text that spells 
+
+the same when written forward and backwards. For example:
+
+- abcdcba
+
+- mum
+
+- deed
+
+I solved this question iteratively, under 36mins at first trial, with a space and time complexity of:
+
+- Time Complexity : O(n) - This is because there a loop that moves through the strings once, and doesnt repeat itself
+
+- Space complexity - O(1) - This is because no extra space was created to solve this question.
+
+I assume that this can also be solved recursively, but with a space complexity of O(n), because of the recursive output of code to the call stack. But also a time complexity of O(n).
